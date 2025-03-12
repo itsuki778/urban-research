@@ -40,7 +40,7 @@
         </ul>
     </div>
     <footer>
-        <p>© 2023 低碳出行研究组 | 联系方式：research@example.com</p>
+        <p>© 2025 低碳出行研究组 | 联系方式：15804396122@163.com</p>
     </footer>
 </body>
 </html>
