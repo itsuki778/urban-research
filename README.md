@@ -1,2 +1,46 @@
-# urban-research
-Academic research project website
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>低碳出行研究项目</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>低碳出行研究项目说明</h1>
+        <p>此页面为学术研究用途，用于微博开放平台开发者账号注册。</p>
+        <h2>研究课题</h2>
+        <p>基于出行行为差异的城市空间协同控碳布局机制分析及规划应对研究</p>
+        <h2>数据使用声明</h2>
+        <ul>
+            <li>数据仅用于学术分析，不涉及个人隐私。</li>
+            <li>严格遵守《个人信息保护法》与平台协议。</li>
+        </ul>
+    </div>
+    <footer>
+        <p>© 2023 低碳出行研究组 | 联系方式：research@example.com</p>
+    </footer>
+</body>
+</html>
